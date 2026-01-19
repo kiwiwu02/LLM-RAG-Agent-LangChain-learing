@@ -15,21 +15,24 @@
 
 ## 🚀 详细执行清单
 
-<details open>
+<details>
 <summary><b>🟢 第一阶段：基础设施与理论基础 (0/6)</b></summary>
 <br>
-
 **🎯 目标**：完成软硬件环境配置，补齐 Python 与 Transformer 理论基础。
 
 - [ ] `【part 1】大模型部署软硬件环境准备`
-  > 📝 笔记：
+  > 📝 笔记：👀
+  >
+  > 【开源大模型本地部署，到底该如何配置电脑硬件？看这个系列教程就够了！】 https://www.bilibili.com/video/BV1Up4y1Z71j/?share_source=copy_web&vd_source=1c3add9a07ebc6385152f119978ff8f2
 - [ ] `【赠送】Python基础课`
   > 📝 笔记：
 - [ ] `【赠送深度】学习Transformer基础`
   > 📝 笔记：
 - [ ] `【赠送】2024大模型实战`
+  
   > 📝 笔记：
 - [ ] `【赠送】Aigc工具课`
+  
   > 📝 笔记：
 - [ ] `直播回放`
   > 📝 笔记：
@@ -62,7 +65,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><b>🔵 第四阶段：低代码/无代码 Agent 实战 (0/4)</b></summary>
 <br>
 
